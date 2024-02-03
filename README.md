@@ -14,4 +14,8 @@
 ## 国内下载地址
 [下载链接](http://welcometococonut.com/vue/software/WeChatManySetup.exe)
 
+如果链接失效请复制下述链接在浏览器打开
+
+http://welcometococonut.com/vue/software/WeChatManySetup.exe
+
 PS :闲来无事开发，无广告，无插件，无收费，禁止买卖本软件。
